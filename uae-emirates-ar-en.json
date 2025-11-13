@@ -1,0 +1,32 @@
+{
+    "EmiratesList": [
+      {
+        "EmirateNameEnglish": "Abu Dhabi",
+        "EmirateNameArabic": "أبو ظبي",
+      },
+      {
+        "EmirateNameEnglish": "Dubai",
+        "EmirateNameArabic": "دبي",
+      },
+      {
+        "EmirateNameEnglish": "Sharjah",
+        "EmirateNameArabic": "الشارقة",
+      },
+      {
+        "EmirateNameEnglish": "Ajman",
+        "EmirateNameArabic": "عجمان",
+      },
+      {
+        "EmirateNameEnglish": "Umm Al Quwain",
+        "EmirateNameArabic": "أم القيوين",
+      },
+      {
+        "EmirateNameEnglish": "Ras Al Khaimah",
+        "EmirateNameArabic": "رأس الخيمة",
+      },
+      {
+        "EmirateNameEnglish": "Fujairah",
+        "EmirateNameArabic": "الفجيرة",
+      }
+    ]
+} 
