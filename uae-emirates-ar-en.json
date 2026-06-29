@@ -1,32 +1,32 @@
 {
     "uae-emirates-ar-en": [
       {
-        "EmirateNameEnglish": "Abu Dhabi",
-        "EmirateNameArabic": "أبو ظبي",
+        "en": "Abu Dhabi",
+        "ar": "أبو ظبي",
       },
       {
-        "EmirateNameEnglish": "Dubai",
-        "EmirateNameArabic": "دبي",
+        "en": "Dubai",
+        "ar": "دبي",
       },
       {
-        "EmirateNameEnglish": "Sharjah",
-        "EmirateNameArabic": "الشارقة",
+        "en": "Sharjah",
+        "ar": "الشارقة",
       },
       {
-        "EmirateNameEnglish": "Ajman",
-        "EmirateNameArabic": "عجمان",
+        "en": "Ajman",
+        "ar": "عجمان",
       },
       {
-        "EmirateNameEnglish": "Umm Al Quwain",
-        "EmirateNameArabic": "أم القيوين",
+        "en": "Umm Al Quwain",
+        "ar": "أم القيوين",
       },
       {
-        "EmirateNameEnglish": "Ras Al Khaimah",
-        "EmirateNameArabic": "رأس الخيمة",
+        "en": "Ras Al Khaimah",
+        "ar": "رأس الخيمة",
       },
       {
-        "EmirateNameEnglish": "Fujairah",
-        "EmirateNameArabic": "الفجيرة",
+        "en": "Fujairah",
+        "ar": "الفجيرة",
       }
     ]
 } 
